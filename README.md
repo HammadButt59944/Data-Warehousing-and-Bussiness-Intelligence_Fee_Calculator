@@ -1,26 +1,24 @@
-# 📌 Project Title
+# 📌 Fee_Calculator (Schpolarship Adjustment)
 
 A brief and clear description of what this project does and why it exists.  
 Explain the main purpose in 1–2 lines.
-
+Best for maintaining records and calculations in a single sheet
 ---
 
 ## 🚀 Features
 
-- Feature 1 (what problem it solves)
-- Feature 2 (key functionality)
-- Feature 3 (user benefit)
+- Feature 1 (Efficient calculation)
+- Feature 2 (Easy to manage)
+- Feature 3 (Amendable)
 - Easy to use and extend
-- Well-structured and documented code
+- Well-structured and documented 
 
 ---
 
 ## 🛠️ Technologies Used
 
-- Language: Python / C++ / JavaScript / etc.
-- Framework / Library: (if any)
-- Database: (if any)
-- Tools: Git, VS Code, Docker, etc.
+- Library: import math
+- Tools: Excel sheet
 
 ---
 
